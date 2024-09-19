@@ -1,0 +1,115 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #1e1e1e;
+}
+.main{
+    
+    
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 0.8) 80%),url(/image/IN-en-20240610-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    border-bottom: 13px solid rgb(33, 33, 33);
+    height: 850px;
+    
+   
+}
+nav img{
+    width: 13%;
+}
+.sign{
+    background-color: rgba(229,9,20);
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(28, 28, 28);
+}
+.english{
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(110, 107, 107);
+    
+}
+.head1{
+    display: flex;
+    color: #ffffff;
+   
+    justify-content:center;
+   
+    height: 400px;
+    
+   
+}
+.w{
+    display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.t1{
+    font-size: 40px;
+    font-weight: 800;
+}
+.p1{
+    font-size: 25px;
+}
+.email{
+    height: 60px;
+    width: 390px;
+    background-color:white;
+    border-radius: 6px;
+    border: 1px solid rgb(59, 58, 58);
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.sign1{
+    height: 60px;
+    width: 130px;
+    background-color: rgba(229,9,20);
+    color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid rgb(59, 58, 58);
+    font-size: 20px;
+    font-weight: 500;
+}
+.tv{
+   
+    background-color: #000000;
+   
+}
+.head2{
+    background-color: #000000;
+    height: 650px;
+    border-bottom: 13px solid rgb(33, 33, 33);
+    
+}
+.tv1{
+    display: flex;
+    justify-content: end;
+}
+.fg{
+    background-color: #000000;
+    color: #ffffff;
+}
+.last{
+    color: #ffffff;
+}
+.head3{
+    background-color: #000000;
+    height: 250px;
+    
+    
+      
+}
+.lastext{
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: underline;
+}
+.fot{
+    background-color: #000000;
+    height: 250px;
+  
+}
